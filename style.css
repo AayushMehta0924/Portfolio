@@ -5,7 +5,6 @@ body {
 }
 
 
-
 /* Body Header */
 
 #body-header {
@@ -17,7 +16,6 @@ body {
     background-attachment: fixed;
     padding-top: 1.2rem;
 }
-
 
 
 /* Horizontal Lists */
@@ -54,7 +52,6 @@ body {
 }
 
 
-
 /* Name and Social Icons*/
 
 #name-social-container {
@@ -78,7 +75,6 @@ body {
 .social-icons li a i:hover {
     box-shadow: 0px 0px 6px 4px rgba(230, 196, 196, 0.3);
 }
-
 
 
 /*Section Classes*/
@@ -111,7 +107,6 @@ section:nth-child(2n + 1) {
     padding-top: 10px;
     margin-right: 0.5rem;
 }
-
 
 
 /*About Section*/
@@ -149,7 +144,6 @@ section:nth-child(2n + 1) {
 }
 
 
-
 /*Skills Section*/
 
 .skills-display {
@@ -182,7 +176,6 @@ section:nth-child(2n + 1) {
     margin-left: 10px;
     vertical-align: middle;
 }
-
 
 
 /* Work Experience */
@@ -291,7 +284,6 @@ section:nth-child(2n + 1) {
 }
 
 
-
 /* Portfolio Section */
 
 #portfolio-container {
@@ -336,7 +328,6 @@ section:nth-child(2n + 1) {
     background-color: #80808078;
     color: white;
 }
-
 
 
 /* Contact Form */
@@ -453,7 +444,6 @@ button:focus {
 }
 
 
-
 /* Common Margin Classes */
 
 .m0 {
@@ -469,7 +459,6 @@ button:focus {
 }
 
 
-
 /*common color classes */
 
 .text-highlight {
@@ -477,7 +466,6 @@ button:focus {
     font-weight: 600;
 
 }
-
 
 
 /* setting background-color */
@@ -501,7 +489,6 @@ button:focus {
 .mb-light-purple {
     background-color: #93738c;
 }
-
 
 
 /*Percentage Classes */
